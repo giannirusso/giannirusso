@@ -4,10 +4,9 @@
 
 Building reliable ML systems for real-world impact.
 
-Machine Learning Engineer with 7+ years of experience in industrial automation, robotics, and real-time systems, building intelligent, production-oriented solutions for real-world environments.
+Machine Learning Engineer building intelligent, production-oriented systems for real-world environments.
 
-Combining expertise in machine learning, industrial systems to develop scalable AI-driven applications focused on predictive analytics, anomaly detection, intelligent automation, and decision-making systems.
-
+Combining machine learning and ndustrial systems to develop scalable AI solutions for predictive analytics, anomaly detection, intelligent automation, and decision-making.
 ## 🔹 Focus Areas
 
 - Machine Learning
