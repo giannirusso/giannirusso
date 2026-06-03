@@ -35,19 +35,34 @@ Combining machine learning and ndustrial systems to develop scalable AI solution
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Cloud & MLOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge)
+
 ### Industrial Systems
-Industrial Automation • Robotics • PLC Systems • Siemens TIA Portal • Real-Time Systems
+![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-0052CC?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge)
+![Siemens TIA Portal](https://img.shields.io/badge/Siemens_TIA_Portal-009999?style=for-the-badge)
+![PLC Systems](https://img.shields.io/badge/PLC_Systems-1E90FF?style=for-the-badge)
 
 ## 🚀 Featured Projects
 
 ### Fraud Detection System
 Production-style fraud detection system using XGBoost, FastAPI, and Docker for highly imbalanced financial datasets.
 
+**Tech:** Python, XGBoost, FastAPI, Docker, CI/CD
+
 ### Predictive Maintenance
 Industrial predictive maintenance system using time-series machine learning for equipment failure prediction.
 
+**Tech:** Python, TensorFlow, LSTM, Time-Series Analysis
+
 ### E-Commerce Recommendation System
 Recommendation engine using collaborative filtering and deep learning approaches for personalized product recommendations.
+
+**Tech:** Python, TensorFlow, Recommendation Systems
 
 ## 🌱 Current Focus
 
@@ -56,15 +71,10 @@ Recommendation engine using collaborative filtering and deep learning approaches
 - Cloud ML (AWS/GCP)
 - Industrial AI Applications
 
-### Cloud & MLOps
+## 🤝 Let's Connect
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge)
+Open to discussions around Machine Learning, Industrial AI, Predictive Systems and ML applications.
 
-### Industrial Systems
+📍 Milan, Italy  
+💼 [LinkedIn](https://www.linkedin.com/in/djanibek-ml-ai/)
 
-![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-0052CC?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge)
-![Siemens TIA Portal](https://img.shields.io/badge/Siemens_TIA_Portal-009999?style=for-the-badge)
-![PLC Systems](https://img.shields.io/badge/PLC_Systems-1E90FF?style=for-the-badge)
