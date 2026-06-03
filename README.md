@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Djanibek 👋
 
-<!--
-**giannirusso/giannirusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning Engineer | Industrial AI | MLOps
 
-Here are some ideas to get you started:
+Building reliable ML systems for real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning Engineer with 7+ years of experience in industrial automation, robotics, and real-time systems, building intelligent, production-oriented solutions for real-world environments.
+
+Combining expertise in machine learning, industrial systems to develop scalable AI-driven applications focused on predictive analytics, anomaly detection, intelligent automation, and decision-making systems.
+
+## 🔹 Focus Areas
+
+- Machine Learning
+- Predictive Analytics
+- Industrial AI
+- Anomaly Detection
+- Time-Series Forecasting
+- Recommendation Systems
+
+## 🔹 Tech Stack
+
+### Machine Learning
+Python • Scikit-learn • PyTorch • TensorFlow • XGBoost • LightGBM • CatBoost
+
+### Backend & Deployment
+FastAPI • Docker • REST APIs • CI/CD • GitHub Actions
+
+### Data & Analytics
+Pandas • NumPy • SQL • Feature Engineering • Time-Series Analysis
+
+### Industrial Systems
+Industrial Automation • Robotics • PLC Systems • Siemens TIA Portal • Real-Time Systems
+
+## 🚀 Featured Projects
+
+### Fraud Detection System
+Production-style fraud detection system using XGBoost, FastAPI, and Docker for highly imbalanced financial datasets.
+
+### Predictive Maintenance
+Industrial predictive maintenance system using time-series machine learning for equipment failure prediction.
+
+### E-Commerce Recommendation System
+Recommendation engine using collaborative filtering and deep learning approaches for personalized product recommendations.
+
+## 🌱 Current Focus
+
+- Production ML Systems
+- MLOps & Model Deployment
+- Cloud ML (AWS/GCP)
+- Industrial AI Applications
