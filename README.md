@@ -76,5 +76,6 @@ Recommendation engine using collaborative filtering and deep learning approaches
 Open to discussions around Machine Learning, Industrial AI, Predictive Systems and ML applications.
 
 📍 Milan, Italy  
-💼 [LinkedIn](https://www.linkedin.com/in/djanibek-ml-ai/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/djanibek-ml-ai/)
 
