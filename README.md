@@ -1,12 +1,11 @@
-# Hi, I'm Djanibek 👋
+# Hi, I'm Djanibek
 
 ### Machine Learning Engineer | Industrial AI | MLOps
 
-Building reliable ML systems for real-world impact.
-
-Machine Learning Engineer building intelligent, production-oriented systems for real-world environments.
+Machine Learning Engineer building intelligent, production-oriented systems.
 
 Combining machine learning and ndustrial systems to develop scalable AI solutions for predictive analytics, anomaly detection, intelligent automation, and decision-making.
+
 ## 🔹 Focus Areas
 
 - Machine Learning
