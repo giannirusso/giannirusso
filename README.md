@@ -1,81 +1,71 @@
-# Hi, I'm Djanibek
+# Hi, I'm Djanibek 👋
 
-### Machine Learning Engineer | Industrial AI | MLOps
+### AI / ML Engineer · LLM Agents · RAG · Production ML
 
-Machine Learning Engineer building intelligent, production-oriented systems.
+I build production LLM systems: RAG with hybrid retrieval, LangGraph agents, Text-to-SQL, and the evaluation and monitoring that make them reliable. Before LLMs I spent four years on classical ML in manufacturing and robotics (downtime root-cause analysis, failure-risk models, OCR over technical manuals), so I care about systems that work in the real world, not just in notebooks.
 
-Combining machine learning and ndustrial systems to develop scalable AI solutions for predictive analytics, anomaly detection, intelligent automation, and decision-making.
+## 🔹 What I work on
 
-## 🔹 Focus Areas
-
-- Machine Learning
-- Predictive Analytics
-- Industrial AI
-- Anomaly Detection
-- Time-Series Forecasting
-- Recommendation Systems
+- **RAG & Search:** hybrid retrieval (BM25 + dense), Multi-Query + RRF, cross-encoder reranking, hierarchical chunking
+- **LLM Agents:** multi-agent research workflows and Text-to-SQL agents on LangGraph, with self-correction and human-in-the-loop
+- **Fine-tuning:** PEFT / QLoRA on open models (Qwen2.5, Llama-3.1, Mistral), XLM-RoBERTa classifiers
+- **Evaluation & LLMOps:** RAGAS, LLM-as-Judge, LangFuse tracing, offline golden sets and online feedback
+- **Classical & Industrial ML:** time-series features, XGBoost / LightGBM, failure prediction, anomaly detection
 
 ## 🔹 Tech Stack
 
+### LLM & RAG
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
+![LangFuse](https://img.shields.io/badge/LangFuse-0A0A0A?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-6B46C1?style=for-the-badge)
+
 ### Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Backend & Deployment
+### Backend, MLOps & Infra
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & MLOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge)
-
-### Industrial Systems
-![Industrial Automation](https://img.shields.io/badge/Industrial_Automation-0052CC?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge)
-![Siemens TIA Portal](https://img.shields.io/badge/Siemens_TIA_Portal-009999?style=for-the-badge)
-![PLC Systems](https://img.shields.io/badge/PLC_Systems-1E90FF?style=for-the-badge)
 
 ## 🚀 Featured Projects
 
-### Fraud Detection System
-Production-style fraud detection system using XGBoost, FastAPI, and Docker for highly imbalanced financial datasets.
+### [Data Analysis Agent](https://github.com/giannirusso/data-agent)
+A conversational analytics agent for non-technical executives over BigQuery, built on LangGraph and Gemini. It has layered PII protection, SQL validation and self-correction, human-in-the-loop confirmation for destructive actions, and full tracing.
+
+**Tech:** LangGraph, Gemini, BigQuery, sqlglot, LangFuse
+
+### [Fraud Detection System](https://github.com/giannirusso/fraud-detection-ml)
+Fraud detection on highly imbalanced financial data, served as an API.
 
 **Tech:** Python, XGBoost, FastAPI, Docker, CI/CD
 
-### Predictive Maintenance
-Industrial predictive maintenance system using time-series machine learning for equipment failure prediction.
+### [Predictive Maintenance](https://github.com/giannirusso/predictive-maintenance)
+Time-series ML for equipment failure prediction, drawn from my experience with industrial robotics.
 
-**Tech:** Python, TensorFlow, LSTM, Time-Series Analysis
+**Tech:** Python, time-series feature engineering, ML
 
-### E-Commerce Recommendation System
-Recommendation engine using collaborative filtering and deep learning approaches for personalized product recommendations.
+### [Baggage Sorting MLOps](https://github.com/giannirusso/baggage-sorting-mlops)
+A production-style MLOps pipeline for anomaly detection and throughput optimization on PLC-like sensor data.
 
-**Tech:** Python, TensorFlow, Recommendation Systems
-
-## 🌱 Current Focus
-
-- Production ML Systems
-- MLOps & Model Deployment
-- Cloud ML (AWS/GCP)
-- Industrial AI Applications
+**Tech:** Python, MLOps, anomaly detection
 
 ## 🤝 Let's Connect
 
-Open to discussions around Machine Learning, Industrial AI, Predictive Systems and ML applications.
+Open to conversations about LLM agents, RAG, evaluation, and production ML.
 
-📍 Milan, Italy  
+📍 Italy · open to remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/djanibek-ml-ai/)
-
